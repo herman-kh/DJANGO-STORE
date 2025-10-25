@@ -1,10 +1,21 @@
+# Database
+*.sqlite3
+*.db
+db.sqlite3
+
+# Django
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
 venv/
-__pacache__
 .env
-.vscode
 
-*pyc
-
-db.sqllite3
-
-media/ 
+products/
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
