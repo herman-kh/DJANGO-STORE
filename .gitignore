@@ -1,0 +1,9 @@
+venv/
+__pacache__
+.env
+.vscode
+
+*pyc
+
+db.sqllite3
+media/ 
